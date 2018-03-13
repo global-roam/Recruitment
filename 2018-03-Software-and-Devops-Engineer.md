@@ -26,7 +26,7 @@ The energy sector is experiencing significant disruption as a range of new techn
 - You are comfortable using or learning a broad range of skills and technologies from user interface design through to design patterns, algorithms and working with databases
 
 ## Practical detail
-- We need you to work in our office most (but not all) days – on Park Rd in Milton
+- We need you to work in our office most (but not all) days – on Park Rd in Milton, Brisbane
 - Pay is competitive based on skill level
 - The sooner you can start the better – ideally immediately, but we would be happy to wait for the right person
 
