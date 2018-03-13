@@ -18,7 +18,7 @@ The energy sector is experiencing significant disruption as a range of new techn
 - We truly value diversity, from background and culture to gender and age
 
 ## Is this you?
-- We have at least 2 roles available - one for a more senior developer with 5+ years experience and one for a more junior role (1+ years experience)
+- We have at least 2 roles available - one for a more senior developer (5+ years experience) and one for a more junior role (1+ years experience)
 - You are passionate about creating software that is useful
 - You want to deliver value to our customers through understanding their needs and will be comfortable contributing to design meetings and the occasional demo to customers
 - You enjoy collaborating and communicating as part of a software development team and embrace working in a flexible way
