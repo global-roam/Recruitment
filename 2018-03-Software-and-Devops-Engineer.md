@@ -10,7 +10,7 @@ The energy sector is experiencing significant change as a variety of new technol
 
 ## Why work with us?
 
-Are you ready to contribute to a small organisation who are committed to delivering valuable software while keeping a relaxed, flexible, fun and focussed working environment?
+Are you ready to contribute to a small organisation who are committed to delivering valuable software while keeping a relaxed, flexible, fun and focused working environment?
 
 Do you crave significant freedom? We trust and depend on each other, and you can help us take responsibility for delivering quality work while also making a huge impact on our code, products, processes, and customers.
 
