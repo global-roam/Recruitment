@@ -40,4 +40,4 @@ We have at least 2 roles available - one for a more senior developer (5+ years e
 -   The sooner you can start the better – ideally immediately, but we would be happy to wait for the right person
 -   People who are looking for either permanent roles or contractor positions are welcome
 
-**Contact us if you're interested – (07) 3368 4064 (during business hours) or SoftwareEngineer@global-roam.com**
+**Contact us if you're interested – (07) 3368 4064 (during business hours) or careers@global-roam.com**
